@@ -1,0 +1,136 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  font-family: 'Poppins', Arial, sans-serif;}
+  
+  body {
+      display: flex;
+      min-height: 100vh;
+  }
+  
+  .header {
+      position: sticky;
+      background-color: #f2f2f2; 
+      height: 100vh;
+      padding: 10px 0px 0px 0px;
+      width: 450px;
+      position: fixed;
+      }
+    .imagemdeperfil {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%; 
+      object-fit: cover;
+      margin-bottom: 20px;
+      margin-left: 35%;
+      margin-top: 5%;}
+  
+  
+  .louies { text-align: center;
+  margin-bottom: -50px;
+  font-size: 12px;
+  font-weight: 400px;}
+  .louies a {color: #000;
+  text-decoration: none;}
+  
+  
+  .menu {list-style: none;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 30px;}
+  .menu li {margin-bottom: 10px;
+  }
+  
+  .menu a {text-decoration: none;
+  color: #666;
+  font-size: 15px;
+  font-weight: 500;}
+  .menu a:hover { color: #000;
+  text-decoration: underline;}
+  
+  
+  
+  .imagemdeperfil3 { margin-left: 0%;
+  margin-top: -2%;
+  height: 1047px;
+  width: 38%;
+  display: flex;
+  margin-left: 400px;} 
+  
+  
+  
+  .direita {padding-left: 60px;
+      padding-top: 100px;
+      width: 600px; }
+  
+  .ola {font-size: 30px;
+  color: #999;
+  font-weight: normal;}
+  
+  .titulo {font-size: 50px;
+  line-height: 1.2;
+  margin-bottom: 25px;}
+  
+  .fotografo {color: #ad9966;
+  font-size: 50px;}
+  
+  .paragrafo {font-family: 'Poppins', Arial, sans-serif;;
+  color: #a3a1a1;
+  font-size: 25px;}
+  .tras{
+      display: flex;
+      margin-left: -570px;
+      margin-top: 80px;
+      font-size: 85px;
+      z-index: -1;
+      color: #EDEDED;
+       font-weight: 700;
+  }
+  .ass{
+      display: flex;
+    font-family: "Herr Von Muellerhoff", cursive;
+      font-size: 40px;
+      margin-left: -480px;
+      margin-top: 640px;
+  }
+
+  .folow{
+    margin-top: 1080px;
+    margin-left: -390px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+  }
+  .imagens{
+    display: flex;
+    height: 193.8px;
+    margin-top: 1150px;
+    margin-left:-600px ;
+    object-fit: cover;
+  }
+  .imagem1{
+    height: 193px;
+    width: 200px;
+    object-fit: cover;
+  }
+  .imagem2{
+    height: 193px;
+    width: 200px;
+    object-fit: cover;
+  }
+  .imagem3{
+    height: 193px;
+    width: 200px;
+    object-fit: cover;
+  }
+  .imagem4{
+    height: 193px;
+    width: 200px;
+    object-fit: cover;
+  }
+  .imagem5{
+    height: 193px;
+    width: 200px;
+    object-fit: cover;
+  }
+
